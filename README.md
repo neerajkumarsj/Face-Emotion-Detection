@@ -1,7 +1,4 @@
 # Face-Emotion-Detection
-
-If you use this dataset in your research work, please cite
-
 "Challenges in Representation Learning: A report on three machine learning
 contests." I Goodfellow, D Erhan, PL Carrier, A Courville, M Mirza, B
 Hamner, W Cukierski, Y Tang, DH Lee, Y Zhou, C Ramaiah, F Feng, R Li,
